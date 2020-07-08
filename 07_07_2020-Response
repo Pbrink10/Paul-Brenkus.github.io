@@ -10,5 +10,22 @@ transactions, and then have historical customer churning rates as an output. Usi
 the algorithm will then create the program and will give you predictions (in this case) based on the data you provided.
 
 
+2. -First Ouput -----> 21.999985
+   -Second Output -----> 22.000015
 
+   - The reason that these two are different is because everytime the project runs, it continuously
+     optimizes and learns from itself. Whether you are running 1000 epochs or 10000 epochs, the output
+     will be different because of the optimization within the algorithm itself.
+     
+     
+3. [[-1.0250885]]
+   [[1.4910779]]
+   [[0.47724438]]
+   [[0.391078]]
+   [[1.0087452]]
+   [[0.29491138]]
+   
+   I found that the the best priced home was the 3 bedroom home which gave us a value of -1.0251. This value corresponds to the fact that
+   our home is better priced according to the market. Next, our worst valued home is the 4 bedroom which had a value of 1.4911. This value could
+   be an indication that we overpaid for our home.
 
