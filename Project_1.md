@@ -34,4 +34,8 @@
        occurs quickly and you are unable to capture the amount. If a counter was encoded into the algorithm to display each violation
        on the screen increasing as the video played then it may help researchers calculate the amount of activity based on density of 
        population. 
+       
+# Output
+
+https://youtu.be/1xQdRgDRjvM
  
