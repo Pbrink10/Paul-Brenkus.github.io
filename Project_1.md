@@ -20,7 +20,7 @@
       Los Angeles. By creating an initial study with this tool in largely populated and dense cities, researches
       can better help government entities allocate resources towards health and safety.
       
-    3.) What are the limitation/improvements?
+### 3.) What are the limitation/improvements?
        
        - One thing that I found to be a possible flaw in the system was the angle in which you see the movement of figures
        accross the screen. Inaccurate information can come about when running the simulation without possible 
@@ -34,3 +34,4 @@
        occurs quickly and you are unable to capture the amount. If a counter was encoded into the algorithm to display each violation
        on the screen increasing as the video played then it may help researchers calculate the amount of activity based on density of 
        population. 
+ 
