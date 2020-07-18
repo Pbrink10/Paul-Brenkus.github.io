@@ -10,4 +10,4 @@
 
 # [07/15/2020](https://github.com/Pbrink10/Paul-Brenkus.github.io/blob/master/07_15_2020_Response.md)
 
-# [Jump Start Data Science](https://github.com/Pbrink10/Paul-Brenkus.github.io/blob/master/Jump_Start_Data_Science.md)
+# [Jump Start Data Science](https://github.com/Pbrink10/Paul-Brenkus.github.io/blob/master/Jump Start Data Science.md)
