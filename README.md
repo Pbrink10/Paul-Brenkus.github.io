@@ -4,7 +4,7 @@
 
 # [Titanic Simulation](https://pbrink10.github.io/Paul-Brenkus.github.io/Titanic_Simulation.md)
 
-# [Project 1](https://pbrink10.github.io/Paul-Brenkus.github.io/Project_1.md)
+# [Project 1](https://pbrink10.github.io/Paul-Brenkus.github.io/Project_1)
 
 # [07/14/2020](https://github.com/Pbrink10/Paul-Brenkus.github.io/blob/master/07_14_2020_Response.md)
 
