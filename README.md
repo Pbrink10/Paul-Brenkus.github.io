@@ -6,8 +6,8 @@
 
 # [Project 1](https://pbrink10.github.io/Paul-Brenkus.github.io/Project_1)
 
-# [07/14/2020](https://github.com/Pbrink10/Paul-Brenkus.github.io/07_14_2020_Response.md)
+# [07/14/2020](https://github.com/Pbrink10/Paul-Brenkus.github.io/07_14_2020_Response)
 
-# [07/15/2020](https://github.com/Pbrink10/Paul-Brenkus.github.io/07_15_2020_Response.md)
+# [07/15/2020](https://github.com/Pbrink10/Paul-Brenkus.github.io/07_15_2020_Response)
 
-# [Jump Start Data Science](https://github.com/Pbrink10/Paul-Brenkus.github.io/Jump%20Start%20Data%20Science.md)
+# [Jump Start Data Science](https://github.com/Pbrink10/Paul-Brenkus.github.io/Jump%20Start%20Data%20Science)
