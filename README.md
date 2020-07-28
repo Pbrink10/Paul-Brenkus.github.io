@@ -18,4 +18,4 @@
 
 # [07/22/2020](https://pbrink10.github.io/Paul-Brenkus.github.io/07_22_2020_Responses)
 
-# [Project 3](htts://pbrink10.github.io/Paul-Brenkus.github.io/Project_3)
+# [Project_3](htts://pbrink10.github.io/Paul-Brenkus.github.io/Project_3)
