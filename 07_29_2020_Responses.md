@@ -110,3 +110,18 @@
 #### To be unknown love, being the friar tourself,
 #### For he is fame to put you to your g
 
+#### After running the model a second time at 30 epochs, I found that the model turned out to be more comprehensible at 30 than 10 epochs. It incorporated proper punctuation and also each line seemed to be grammatically correct except for some minor spelling issues. 
+
+
+# C
+
+### 1.) Use the translate() command at the end of the exercise to translate three sentences from Spanish to English. Download the appropriate language dataset and translate the scene. How did your translation turn out this time?
+#### There were three outputs for the three sentences. I found that each translation gave me the correct output, but, the first one had a punctuation issue with "it s" instead of "it's". I also found that all three outputs had issues with reading the 'period' as a character associated with the last character in the last word, instead they were spaced out. 
+
+![Spanish1.png](Spanish1.png)
+
+![Spanish2.png](Spanish2.png)
+
+![Spanish3.png](Spanish3.png)
+
+![Spanish4.png](Spanish4.png)
