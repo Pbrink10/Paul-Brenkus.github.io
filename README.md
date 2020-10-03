@@ -26,4 +26,4 @@
 
 # [Final Project](https://pbrink10.github.io/Paul-Brenkus.github.io/Final_Project)
 
-# [Vectors_Matrices](https://github.com/Pbrink10/Paul-Brenkus.github.io/blob/master/Vectors_Matrices.R)
+# [Vectors_Matrices](https://pbrink10.github.io/Paul-Brenkus.github.io/Vectors_Matrices)
