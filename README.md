@@ -29,3 +29,5 @@
 # [Vectors_Matrices](https://pbrink10.github.io/Paul-Brenkus.github.io/Vectors_Matrices.R)
 
 # [Data Plots](https://pbrink10.github.io/Paul-Brenkus.github.io/DataPlots.R)
+
+# [Linear Regression](https://pbrink19.github.io/Paul-Brenkus.github.io/LinearRegression.R)
