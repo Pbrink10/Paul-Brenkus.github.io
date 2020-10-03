@@ -28,4 +28,4 @@
 
 # [Vectors_Matrices](https://pbrink10.github.io/Paul-Brenkus.github.io/Vectors_Matrices.R)
 
-# [Data Plots](httsp://pbrink10.github.io/Paul-Brenkus.github.io/DataPlots.R)
+# [Data_Plots](httsp://pbrink10.github.io/Paul-Brenkus.github.io/DataPlots.R)
